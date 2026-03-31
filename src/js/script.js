@@ -4,3 +4,7 @@ let safra = prompt("Informe a safra do vinho: ")
 let qnt = prompt("Informe a quantidade do vinho em estoque: ")
 
 alert("Cadastro Realizado! Veja os detalhes no console.")
+console.log(`Nome do Vinho: ${vinho}`)
+console.log(`Tipo de Vinho: ${tipo}`)
+console.log(`Ano da Safra: ${safra}`)
+console.log(`Quantidade de Vinho: ${qnt}`)
