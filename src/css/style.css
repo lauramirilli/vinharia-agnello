@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 
-h1, h2 {
+h1, h2, p {
     text-align: center;
 }
 
@@ -33,4 +33,12 @@ h1, h2 {
 .sobreProjeto {
      padding: 20px;
      background-color: white;
+}
+
+.imagens {
+    display: block;
+    margin: auto;
+    width: 400px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
